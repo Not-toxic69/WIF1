@@ -12,7 +12,10 @@ body {
                                                 
 }
 .rm{
-  font-size: 0.8em !important;
+  font-size: 12px !important;
+}
+.rm1{
+  font-size: 14px !important;
 }
 .number{
 max-width: 400px;
